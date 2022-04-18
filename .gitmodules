@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = D:\\DigitalLAB\\test\\lib\\.git
+[submodule "test_lib"]
+	path = test_lib
+	url = git@github.com:olokevin/test_lib.git
